@@ -9,7 +9,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/anshlag_fm" target="blank"><img align="center" src="./icon/telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/hard_front" target="blank"><img align="center" src="./icon/telegram.svg" alt="daniilshat" height="40" width="40" /></a>
 <a href="https://wa.me/79209191567" target="blank"><img align="center" src="./icon/whatsapp.svg" alt="daniilshat" height="36" width="36" /></a>
 <a href="mailto:betani.elvin@mail.ru" target="blank"><img align="center" src="./icon/email.svg" alt="daniilshat" height="36" width="36" /></a>
 </p>
