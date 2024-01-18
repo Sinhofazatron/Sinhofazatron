@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Sitnikov Dmitry </h1>
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer</h3>
+<h3 align="center"><a href="http://hard-developer.ru" target="blank">My Website</a></h3>
 
 - 🌱 I am currently studying web technologies
 
